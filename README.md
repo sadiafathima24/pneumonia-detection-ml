@@ -20,7 +20,7 @@
 3. Run cells to load the model and try predictions.
 
 **Open in Colab:**  
-`https://colab.research.google.com/github/<your-username>/pneumonia-detection-ml/blob/main/notebooks/inference.ipynb`
+`https://colab.research.google.com/github/<sadiafathima24>/pneumonia-detection-ml/blob/main/notebooks/inference.ipynb`
 
 ---
 
