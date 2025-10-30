@@ -1,6 +1,6 @@
 # Pneumonia Detection ML
 
-**Quick:** Fine-tuned VGG16 for binary classification (Normal vs Pneumonia) using chest X-ray images (Colab project).
+**Quick:** Fine-tuned VGG16 for binary classification (Normal vs Pneumonia) using chest X-ray images (Colab project) deployed using streamlit.
 
 ---
 
@@ -9,6 +9,7 @@
 - `model/` – info about model weights (we store large weights on Drive)
 - `DATA_LINKS.md` – dataset & model download links
 - `requirements.txt` – Python dependencies
+-  `pneumonia Detection AI` – Streamlit output
 
 ---
 
